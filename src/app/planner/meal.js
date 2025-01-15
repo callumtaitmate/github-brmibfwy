@@ -7,8 +7,8 @@ export default function Meal() {
   return (
     <div className="space-y-8">
       <div className="text-center">
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          Meal Planner
+        <h1 className="text-3xl font-bold text-gray-900 mb-4">
+          Weekly Macros Calculator
         </h1>
         <p className="text-gray-600 max-w-2xl mx-auto">
           Plan your meals, track nutrients, and manage your food budget all in one place.
